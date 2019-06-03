@@ -2,6 +2,19 @@
 
 A new Flutter application.
 
+Join us 
+visit our Website 
+www.gaalbaat.com
+Instagram
+http://bit.ly/2JyOIBo
+Facebook
+http://bit.ly/2Ymuoay
+Twitter
+http://bit.ly/2VfyIWT
+Facebook Group 
+http://bit.ly/2VQAmTv
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
